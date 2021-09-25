@@ -1,0 +1,27 @@
+{
+    "name": "ginganinjax2/zingo",
+    "description": "Muh zingo",
+    "type": "library",
+    "license": "NONE",
+    "authors": [
+        {
+            "name": "Eric Schmiedel",
+            "email": "ginganinjax2@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4|^8.0"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"ginganinjax2\\HelloComposer\\": "src/"}
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
