@@ -1,6 +1,7 @@
 {
     "name": "ginganinjax2/zingo",
     "description": "Muh zingo",
+    "version": "1.0",
     "type": "library",
     "license": "NONE",
     "authors": [
