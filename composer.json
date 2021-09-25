@@ -1,7 +1,7 @@
 {
     "name": "ginganinjax2/hello-composer",
     "description": "Muh zingo",
-    "version": "v1.0",
+    "version": "1.0",
     "type": "library",
     "license": "NONE",
     "authors": [
